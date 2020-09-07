@@ -40,3 +40,19 @@ let cuadro = document.querySelector('.cuadro');
   carrousel(cuadro);
 
 });
+
+
+/************************/
+
+var texto1 = document.querySelector('text1');
+var texto2 = document.querySelector('text2');
+var texto3 = document.querySelector('text3');
+
+function slidetext(){
+  if (cont <= atras) {
+    
+  }
+
+
+
+};
