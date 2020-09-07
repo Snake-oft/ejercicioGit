@@ -80,3 +80,30 @@ img{
   height: 100%;
 }
 /*****************************************/
+.section_texto{
+width: 100%;
+height: auto;
+margin-top: 5px;
+background-color: red;
+text-align: center;
+}
+
+#text1{
+  font-size: 17px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#text2{
+  font-size: 17px;
+  font-family: sans-serif;
+  text-align: center;
+  display: none;
+}
+
+#text3{
+  font-size: 17px;
+  font-family: sans-serif;
+  text-align: center;
+  display: none;
+}
